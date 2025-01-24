@@ -22,7 +22,7 @@ För att komma igång med hemsidan, följ dessa steg:
 1. **Kloning av projektet**:
    - För att hämta projektet till din dator, använd följande kommando:
      ```bash
-     git clone https://github.com/ditt-användarnamn/valhallas-polismyndighet.git
+    [ git clone https://github.com/ditt-användarnamn/valhallas-polismyndighet.git](http://mr-revo.github.io/repository.)
      ```
    
 2. **Öppna i webbläsare**:
